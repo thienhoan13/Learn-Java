@@ -11,5 +11,5 @@
 ## git cheat sheet
 1. [git cheat sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)
 
-## Mark dowm cheat sheet
+## Mark down cheat sheet
 1. [Mark down cheat sheet](https://www.markdownguide.org/cheat-sheet)
